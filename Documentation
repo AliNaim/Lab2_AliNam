@@ -1,0 +1,14 @@
+Introduction
+
+Our task was to implement a memory efficient version of matrix multiplication using both Iterative method and strassen’s algorithm.
+
+Approach 
+
+We have to understand the functions of memory leaks, Dangling Pointers, Smart Pointers, STL in order to complete this lab. For its complete implementation we had to apply strassen’s algorithym on non square matrices by converting a non square matrix into a square one, after padding it with 0s and removing the padding, once we have performed all calculations.
+How to run
+
+Just run the .cpp file on visual studio and the project will run.
+
+Analysis
+
+The core purpose of this lab was to get to know how of memory leaks and smart pointers. And on the same hand STL aswell.
